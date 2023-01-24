@@ -7,7 +7,7 @@ By using the EventBased_Backtester we can easily iterate over the parameters of 
 
 ![png](https://github.com/gamaiun/EventBased_Backtester/blob/main/example.png)
 
-Explanation: **Vactorized vs event based backtesting**.
+Explanation: **Vectorized vs event based backtesting**.
 
 *Vectorized backtesting* in Python is a method of testing a trading strategy using historical data where the calculations are done using arrays and matrix operations, rather than looping through each data point. This method is computationally efficient and allows for fast execution of backtesting.
 
