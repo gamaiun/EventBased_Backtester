@@ -3,7 +3,7 @@
 The event-based backtester uses the Oanda API to download and test financial instruments with custom indicators. This project intends to test initial trading hypotheses without relying on third-party libraries.
 By using the EventBased_Backtester we can easily iterate over the parameters of MA, RSI, MACD, ATR and other popular indicators and locate potential regions of higher probability of returns. 
 
-*The brighter areas on the heatmaps below depict the higher (historical) returns of different MA crossovers in the USDJPY pair. The darker areas represent the lower returns.   
+<em>The brighter areas on the heatmaps below depict the higher (historical) returns of different MA crossovers in the USDJPY pair. The darker areas represent the lower returns.</em>  
 
 ![png](https://github.com/gamaiun/EventBased_Backtester/blob/main/example.png)
 
