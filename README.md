@@ -1,4 +1,4 @@
-**EventBased_Backtester**
+<h2>EventBased_Backtester<h2>
  
 The event-based backtester uses the Oanda API to download and test financial instruments with custom indicators. This project intends to test initial trading hypotheses without relying on third-party libraries.
 By using the EventBased_Backtester we can easily iterate over the parameters of MA, RSI, MACD, ATR and other popular indicators and locate potential regions of higher probability of returns. 
@@ -13,7 +13,7 @@ Explanation: **Vactorized vs event based backtesting**.
 
 *Event-based backtesting*, on the other hand, is a method of testing a trading strategy that simulates the exact sequence of events that occurred in the market, such as trades, orders, and market data updates. This method is more realistic, as it takes into account the timing of market events and how they impact the strategy.
 
-**Three major advantages of event-based backtesting are:
+**Three major advantages of event-based backtesting are**:
 
 Realism: Event-based backtesting captures the exact sequence of market events and how they impact the strategy, making it more realistic than vectorized backtesting.
 
@@ -23,7 +23,7 @@ Transparency: Event-based backtesting makes it easy to understand the behavior o
 
 It's worth noting that event-based backtesting is generally considered more realistic and accurate than vectorized backtesting, but it comes with a tradeoff of computational efficiency, complexity, and scalability. Depending on the use case, one approach may be more beneficial than the other. 
 
-**Two major disadvantages of event-based backtesting compared to vectorized backtesting are:
+**Two major disadvantages of event-based backtesting compared to vectorized backtesting are:**
 
 Computational efficiency: Event-based backtesting can be computationally intensive as it simulates the exact sequence of market events, which may require a large amount of memory and processing power. This can make it slower than vectorized backtesting, especially for large datasets.
 
