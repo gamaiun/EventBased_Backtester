@@ -2,9 +2,12 @@ EventBased_Backtester
  
 The event-based backtester uses the Oanda API to download and test financial instruments with custom indicators. The goal of this project was to write code that would allow us to test initial trading hypotheses without relying on third-party libraries (such as yfinance and quantstats).
 
+[png](https://github.com/gamaiun/EventBased_Backtester/blob/main/example.png)
+
 Vectorized backtesting in Python is a method of testing a trading strategy using historical data where the calculations are done using arrays and matrix operations, rather than looping through each data point. This method is computationally efficient and allows for fast execution of backtesting.
 
 Event-based backtesting is a method of testing a trading strategy that simulates the exact sequence of events that occurred in the market, such as trades, orders, and market data updates. This method is more realistic, as it takes into account the timing of market events and how they impact the strategy.
+
 
 Three major advantages of event-based backtesting are:
 
