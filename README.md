@@ -1,4 +1,4 @@
-<h2>EventBased_Backtester<h2>
+<h2>EventBased_Backtester</h2>
  
 The event-based backtester uses the Oanda API to download and test financial instruments with custom indicators. This project intends to test initial trading hypotheses without relying on third-party libraries.
 By using the EventBased_Backtester we can easily iterate over the parameters of MA, RSI, MACD, ATR and other popular indicators and locate potential regions of higher probability of returns. 
